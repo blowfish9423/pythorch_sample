@@ -40,6 +40,7 @@ for epoch in range(n_iters):
 
     #zero gradients
     w.grad.zero_()
+
     if epoch % 1 == 0 :
         print(f'epoch {epoch+1}: w = {w:.3f} , loss = {l:.8f}')
 
