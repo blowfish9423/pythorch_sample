@@ -5,7 +5,7 @@
 #   - backward pass: gradients
 #   - update weights
 
-#https://www.youtube.com/watch?v=YAJ5XBwlN4o&t=105s
+#https://www.youtube.com/watch?v=YAJ5XBwlN4o&t=105s  
 
 import torch
 import torch.nn as nn
